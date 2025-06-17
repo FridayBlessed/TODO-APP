@@ -169,4 +169,4 @@ This project is created for educational purposes and demonstration of React deve
 
 ---
 
-Built with ❤️ using React and modern web technologies.
+Built with ❤️ using Typescript & React and modern web technologies.
