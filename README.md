@@ -12,7 +12,7 @@ A comprehensive Todo application built with React that demonstrates modern front
 - **Full CRUD Operations**: Create, Read, Update, and Delete todos
 - **Error Handling**: Custom error boundary and 404 page
 - **Responsive Design**: Mobile-first approach with desktop optimization
-- **Accessibility**: ARIA labels, semantic HTML, keyboard navigation
+- **Accessibility**: ARIA labels, semantic HTML, keyboard navigation.
 
 ### Technical Features
 - **API Integration**: JSONPlaceholder API with React Query for caching
