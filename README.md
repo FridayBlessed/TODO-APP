@@ -1,5 +1,5 @@
 
-# React Todo Application
+#  Todo Application
 
 A comprehensive Todo application built with React that demonstrates modern frontend engineering skills including API integration, routing, state management, and accessible user interfaces.
 
