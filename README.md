@@ -3,7 +3,7 @@
 
 A comprehensive Todo application built with React that demonstrates modern frontend engineering skills including API integration, routing, state management, and accessible user interfaces.
 
-## 🚀 Features
+##  Features
 
 ### Core Functionality
 - **Todo Listing with Pagination**: Display todos with 10 items per page pagination
@@ -33,7 +33,7 @@ A comprehensive Todo application built with React that demonstrates modern front
 - **Lucide React**: Icon library
 - **Vite**: Build tool and dev server
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
@@ -53,14 +53,14 @@ A comprehensive Todo application built with React that demonstrates modern front
 
 4. Open your browser and navigate to `http://localhost:5173`
 
-## 🚀 Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build locally
 - `npm run lint` - Run ESLint
 
-## 🌐 API Integration
+##  API Integration
 
 The application uses the JSONPlaceholder API for demo purposes:
 
@@ -72,7 +72,7 @@ The application uses the JSONPlaceholder API for demo purposes:
   - `PUT /todos/{id}` - Update existing todo
   - `DELETE /todos/{id}` - Delete todo
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 src/
@@ -89,7 +89,7 @@ src/
 └── main.jsx              # Application entry point
 ```
 
-## ✨ Key Features Explained
+##  Key Features Explained
 
 ### Pagination
 - Client-side pagination with 10 items per page
@@ -127,7 +127,7 @@ src/
 - Touch-friendly interface elements
 - Optimized for both mobile and desktop
 
-## 🎯 Usage
+##  Usage
 
 1. **View Todos**: Navigate to the main page to see paginated todo list
 2. **Search**: Use the search bar to find specific todos by title
@@ -138,13 +138,13 @@ src/
 7. **Delete Todo**: Use the "Delete Todo" button with confirmation
 8. **Navigate**: Use pagination controls to browse through todos
 
-## 🐛 Known Issues
+##  Known Issues
 
 - API operations are simulated (JSONPlaceholder doesn't persist changes)
 - Limited to 50 todos to keep the demo manageable
 - Some API responses may be slower due to external service
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 ### Planned Features
 - **Data Persistence**: Local storage integration
@@ -163,7 +163,7 @@ src/
 - **Testing**: Comprehensive test suite
 - **Animation**: Smooth transitions and micro-interactions
 
-## 📄 License
+##  License
 
 This project is created for educational purposes and demonstration of React development skills.
 
