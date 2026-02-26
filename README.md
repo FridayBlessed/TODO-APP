@@ -22,7 +22,7 @@ A comprehensive Todo application built with React that demonstrates modern front
 - **UI Components**: ShadCN/UI component library
 - **Styling**: Tailwind CSS with consistent design system
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **React**: Frontend framework
 - **React Router**: Client-side routing
